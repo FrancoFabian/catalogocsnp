@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import './elbar.css';
+import './home.css';
+import './About.css';
+import './Car.css'
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
