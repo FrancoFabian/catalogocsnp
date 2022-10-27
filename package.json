@@ -1,6 +1,6 @@
 {
+  "homepage":"http://FrancoFabian.github.io/catalogocsnp",
   "name": "catalogocsnp",
-  "homepage":"https://FrancoFabian.github.io/catalogocsnp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
