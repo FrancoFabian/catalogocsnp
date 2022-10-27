@@ -5,6 +5,7 @@ import Home from './components/Home';
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
 import Footer from './components/Footer';
 import MascaraC from './components/MascaraC';
+import About from './components/About'
 
 
 function App() {
@@ -21,7 +22,7 @@ function App() {
         </Routes>
       </BrowserRouter>
       
-      
+      <Footer/>
       
     </div>
   );
